@@ -1,0 +1,39 @@
+1.Main method in Java:
+It is used to execute or console the program.With the help of main method we can call the class by creating the object. 
+Syntax:public static void main (string[ ] args)
+
+2.Statements:
+conditional statement - if else ,nested if.
+looping statement-for loop,while loop,do while loop,
+Jump statement-break,continue.
+switch case statement.
+
+3.JumpStatements:
+Continue Statement:stop the current iteration of the loop and continue with next iteration.
+Break Statement:it runs the current iteration,after using the break statement further iterations will not run. 
+
+4.Array:
+Array is a container to store multiple data of same data type or Array is a collection of similar data type.
+syntax:int[ ] array={1,2,3,4,5,6,7};
+
+5.Error-Array Index Out Of Bounds Exception:
+It simply says if the looping condition exist the index value in Array,then it shows an error-Array index out of bounds exception.
+
+6.Objects syntax:
+Classname objectname=new classname();
+eg:Car apply=new Car();
+
+7.variable:
+Variable is used to store a value of Predefined data type..
+eg:String Str="HELP"; 
+
+8.String:
+String is a sequence of character.It is a non -primitive data type.String Can also known as Class.
+
+9.Two ways to create a String object in Java:
+String name="Mathi"; *By String Literal*
+String name=new String("Mathi"); *By String As Object*
+
+10.equals();
+It is used to compare the two given String or Array, wheather the given String or Array are same or not.
+ ==Compare the index values in string and array.
